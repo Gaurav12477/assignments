@@ -17,7 +17,6 @@
 */
 
 class Calculator {
-  let 
 }
 
 module.exports = Calculator;
