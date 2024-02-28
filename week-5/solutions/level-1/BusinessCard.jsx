@@ -12,7 +12,7 @@ export function BusinessCard(props) {
           ))}
         </ul>
         <div style={styles.socialLinks}>
-          <a href={props.linkedin} target="_blank" rel="noopener noreferrer" style={{...styles.link, marginLeft: '0px'}}>
+          <a href={props.linkedin} target="_blank" rel="noopener noreferrer" style={{ ...styles.link, marginLeft: '0px'}}>
             LinkedIn
           </a>
           <br />

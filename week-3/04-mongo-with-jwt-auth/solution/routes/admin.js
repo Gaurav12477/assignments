@@ -13,7 +13,7 @@ router.post('/signup', async (req, res) => {
 
     // check if a user with this username already exists
     await Admin.create({
-        username: username,
+        username: username, 
         password: password
     })
 
